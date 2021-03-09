@@ -1,27 +1,68 @@
+<h1 align="center"> Fasty Food ☀️ </h1>
 
-Esta es una onepage de un Restaurante de comida rápida, con webpack y babel.
+[Fasty food](), es una onepage de un restaurante de ensaladas. Cuenta con varias secciones como home, about, services, menu y contact. También cuenta con el cambio de tema [light-dark]. Es moderna y con animaciones.
 
-## Scripts disponibles
+**Sólo disfruta de la genialidad** 😉
 
-En el directorio del proyecto puedes: 
+<hr>
 
-### `npm start`
+<div align="center">
 
-Ejecuta la aplicación en el modo de desarrollo. \
-Abrirá [http: // localhost: 9090] (http: // localhost: 9090) para verlo en el navegador.
-Por defecto en chrome.
+<img alt="fasty-food" src="./src/images/fasty-food-screen.png"> </img>
 
-La página se recargará si realiza modificaciones. \
-También verá errores en la consola.
+</div>
 
-### `npm run build`
+## Table of Contents
 
-Construye la aplicación para producción en la carpeta `dist`. \
+- [Technology Stack](#technology-stack)
+- [Installation & Usage](#installation-&-usage)
 
-La compilación se minimiza y los nombres de archivo incluyen los hash. con 8 caracteres \
-Y una carpeta `images` para los recursos
-¡Tu aplicación está lista para implementarse!
+## Technology Stack
+
+| Technology          | Description                                         | Link ↘️                            |
+| --------------------| -----------------------------------------           | ----------------------------------- |
+| HTML5               | Lenguaje de Marcado de Hipertexto                   | ----                                |
+| CSS3                | Hoja de cascadas de estilos                         | ----                                |
+| JavaScript          | Lenguaje de alto nivel, dinámico e interpretado     | ----                                |
+| ScrollReveal        | Biblioteca de JavaScript para animar elementos      | https://scrollrevealjs.org/         |
+| Webpack             | Paquete de módulos de JavaScript de código abierto  | https://webpack.js.org/             |
 
 
 
-psdt: No te olvides de inicializar npm ;)
+## Installation & Usage
+
+
+_Asegúrese de que [Node.js](https://nodejs.org/en/) y [NPM](https://www.npmjs.com/) estén instalados_
+
+
+1. Clona o descarga el repositorio (dependiendo de si estás usando SSH o HTTPS)
+
+```
+git clone https://github.com/piercenovo/fasty-food.git
+cd fasty-food
+```
+
+2. Install dependencies
+
+```
+npm i
+```
+
+3. Start the application
+
+```
+npm start
+```
+
+Después de que la aplicación inicie, visite [http://localhost:9090](http://localhost:9090) para verlo en el navegador.
+
+3. Build the application
+
+```
+npm run build
+```
+Se creará una carpeta `dist` donde se encontrarán los archivos comprimidos necesarios para que la onepage se ejecute.
+
+<br />
+
+Thanks.. 🚀✨
