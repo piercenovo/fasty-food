@@ -4,6 +4,8 @@
 
 **Sólo disfruta de la genialidad** 😉
 
+Checa la demo aquí: [https://fasty-food.vercel.app/](https://fasty-food.vercel.app/)
+
 <hr>
 
 <div align="center">
