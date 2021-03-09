@@ -4,7 +4,7 @@
 
 **Sólo disfruta de la genialidad** 😉
 
-Checa la demo aquí: [https://fasty-food.vercel.app/](https://fasty-food.vercel.app/)
+Checa la demo aquí: <a href="fasty-food.vercel.app" target="_blank">https://fasty-food.vercel.app/</a>
 
 <hr>
 
