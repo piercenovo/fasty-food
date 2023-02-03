@@ -46,6 +46,7 @@ Official website: [https://fasty-food.vercel.app/](https://fasty-food.vercel.app
 <img alt="fasty-food" src="./src/images/fasty-food-screen.png"> </img>
 </div>
 
+<br/>
 
 [Fasty food](https://fasty-food.vercel.app/), it is a onepage of a salad restaurant. It has several sections such as home, about, services, menu and contact. It also features [light-dark] theme switching. It is modern and animated.
 
@@ -54,10 +55,13 @@ Official website: [https://fasty-food.vercel.app/](https://fasty-food.vercel.app
 * <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" 
 alt="Javascript">
 </a>
+
 * <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
 </a>
+
 * <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
 </a>
+
 * <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/Webpack-5299C8?style=for-the-badge&logo=webpack&logoColor=white" 
 alt="Webpack">
 </a>
